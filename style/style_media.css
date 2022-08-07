@@ -840,7 +840,7 @@
 
 .progress_2 {
     height: 100%;
-    width: 10%;
+    width: 50%;
     border-radius: 30px;
     background-color: #EF6210;
 }
@@ -853,6 +853,22 @@
     font-weight: bold;
     color: #fff;
 }
+    
+.progress_3 {
+    height: 100%;
+    width: 10%;
+    border-radius: 30px;
+    background-color: #EF6210;
+}
+
+.progress_3 h3 {
+    font-size: 0.8em;
+    text-align: end;
+    padding-top: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+    color: #fff;
+}    
 
 .child_1 {
     grid-column-start: 1;
@@ -1127,7 +1143,7 @@
 
 .progress_2 {
     height: 100%;
-    width: 10%;
+    width: 50%;
     border-radius: 30px;
     background-color: #EF6210;
 }
@@ -1139,6 +1155,22 @@
     padding-right: 5px;
     font-weight: bold;
     color: #fff;
+}
+    
+.progress_2 h3 {
+    font-size: 0.8em;
+    text-align: end;
+    padding-top: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+    
+.progress_3 {
+    height: 100%;
+    width: 10%;
+    border-radius: 30px;
+    background-color: #EF6210;
 }
 
 .child_1 {
@@ -1436,7 +1468,7 @@
 
 .progress_2 {
     height: 100%;
-    width: 10%;
+    width: 50%;
     border-radius: 30px;
     background-color: #EF6210;
 }
@@ -1448,6 +1480,22 @@
     padding-right: 5px;
     font-weight: bold;
     color: #fff;
+}
+    
+    .progress_2 h3 {
+    font-size: 0.8em;
+    text-align: end;
+    padding-top: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+    
+.progress_3 {
+    height: 100%;
+    width: 10%;
+    border-radius: 30px;
+    background-color: #EF6210;
 }
 
 .child_1 {
