@@ -126,7 +126,7 @@ span {
 
     height: 145px;
     width: auto;
-    background-color: #EF6210;
+    background-color: #0B1A56;
     margin: auto;
 }
 
@@ -183,12 +183,12 @@ span {
     color: #fff;
 }
 
-.footer_facebook {
+.footer_github {
     padding-top: 55px;
     margin-right: 20px;
 }
 
-.footer_facebook a {
+.footer_github a {
     color: #fff;
     accent-color: #fff;
     font-size: 40px;
@@ -201,7 +201,7 @@ span {
 }
 
 .footer_instagram a {
-    color: #0B1A56;
+    color: #EF6210;
     font-size: 40px;
 }
 
@@ -214,6 +214,7 @@ span {
     color: #fff;
     font-size: 40px;
 }
+
 
 
 
